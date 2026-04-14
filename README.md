@@ -1,43 +1,36 @@
-# pizza equation
+# identity rule
 
 ```math
-\frac{pizza slices}{pizza size} = ...
+\frac{X}{X} = 1
 ```
 
-pizza is itself
+## division by 0
 
-```math
-pizza = pizza
-```
-
-# slice is itself
-
-```math
-pizza slice = pizza slice
-```
-
-# anything is one time in itself
+### nothing of nothing
 
 ```math
 \frac{0}{0} = 1
 ```
 
-## nothing of nothing
+## division by infinity
+
+### everything of everything
 
 ```math
-\frac{0}{0} = 1?
+\frac{\infty}{\infty} = 1
 ```
 
-## nothing in everything
+## edge case tests
 
-```math
-\frac{\infty}{0} = ?
-```
-
-## everything in nothing
+### everything of nothing
 
 ```math
 \frac{0}{\infty} = ?
 ```
 
+### nothing of everything
+
+```math
+\frac{\infty}{0} = ?
+```
 
