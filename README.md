@@ -1,38 +1,29 @@
-# division by itself is always one
+## anything is itself
 
 ```math
 \frac{X}{X} = 1
 ```
 
-## division by zero is always infinity
-
-### nothing of nothing
+## no slices of no pizza
 
 ```math
 \frac{0}{0} = 1
 ```
 
-## division by infinity is always zero
-
-### everything of everything
+## infinite slices of infinite pizza
 
 ```math
 \frac{\infty}{\infty} = 1
 ```
 
-## no slices of infinite pizza
-
-### everything of nothing
+## zero slices of infinite pizza
 
 ```math
-\frac{0}{\infty} = ?
+\frac{0}{\infty} = 0
 ```
 
 ## infinite slices of no pizza
 
-### nothing of everything
-
 ```math
-\frac{\infty}{0} = ?
+\frac{\infty}{0} = {\infty}
 ```
-
